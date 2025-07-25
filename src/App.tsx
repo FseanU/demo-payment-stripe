@@ -1,5 +1,4 @@
 import "./App.css";
-import PaymentForm from "./PaymentForm";
 import CheckoutForm from "./StripeCheckoutForm";
 import { CheckoutProvider } from "@stripe/react-stripe-js";
 import { loadStripe } from "@stripe/stripe-js";
